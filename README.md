@@ -1,1 +1,1 @@
-# JaaGLinks.githubpage.io
+# JaaGLinks.github.io
